@@ -3,7 +3,7 @@
 #include <time.h>
 #include<math.h>
 //200030306
-//TESN›M ALTINDAL
+//TESN√ùM ALTINDAL
 int main()
 {
 	int n;
